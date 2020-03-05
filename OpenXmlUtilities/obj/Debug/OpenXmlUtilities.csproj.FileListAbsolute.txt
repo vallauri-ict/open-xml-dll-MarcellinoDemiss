@@ -1,0 +1,24 @@
+C:\Users\oscar.cambieri\Desktop\OpenXmlPlaygroundSolution\OpenXmlUtilities\bin\Debug\OpenXmlUtilities.dll
+C:\Users\oscar.cambieri\Desktop\OpenXmlPlaygroundSolution\OpenXmlUtilities\bin\Debug\OpenXmlUtilities.pdb
+C:\Users\oscar.cambieri\Desktop\OpenXmlPlaygroundSolution\OpenXmlUtilities\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\oscar.cambieri\Desktop\OpenXmlPlaygroundSolution\OpenXmlUtilities\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\oscar.cambieri\Desktop\OpenXmlPlaygroundSolution\OpenXmlUtilities\obj\Debug\OpenXmlUtilities.csprojAssemblyReference.cache
+C:\Users\oscar.cambieri\Desktop\OpenXmlPlaygroundSolution\OpenXmlUtilities\obj\Debug\OpenXmlUtilities.csproj.CopyComplete
+C:\Users\oscar.cambieri\Desktop\OpenXmlPlaygroundSolution\OpenXmlUtilities\obj\Debug\OpenXmlUtilities.dll
+C:\Users\oscar.cambieri\Desktop\OpenXmlPlaygroundSolution\OpenXmlUtilities\obj\Debug\OpenXmlUtilities.pdb
+C:\Users\oscar.cambieri\Desktop\OpenXML\OpenXmlPlaygroundSolution\OpenXmlUtilities\bin\Debug\OpenXmlUtilities.dll
+C:\Users\oscar.cambieri\Desktop\OpenXML\OpenXmlPlaygroundSolution\OpenXmlUtilities\bin\Debug\OpenXmlUtilities.pdb
+C:\Users\oscar.cambieri\Desktop\OpenXML\OpenXmlPlaygroundSolution\OpenXmlUtilities\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\oscar.cambieri\Desktop\OpenXML\OpenXmlPlaygroundSolution\OpenXmlUtilities\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\oscar.cambieri\Desktop\OpenXML\OpenXmlPlaygroundSolution\OpenXmlUtilities\obj\Debug\OpenXmlUtilities.csprojAssemblyReference.cache
+C:\Users\oscar.cambieri\Desktop\OpenXML\OpenXmlPlaygroundSolution\OpenXmlUtilities\obj\Debug\OpenXmlUtilities.csproj.CopyComplete
+C:\Users\oscar.cambieri\Desktop\OpenXML\OpenXmlPlaygroundSolution\OpenXmlUtilities\obj\Debug\OpenXmlUtilities.dll
+C:\Users\oscar.cambieri\Desktop\OpenXML\OpenXmlPlaygroundSolution\OpenXmlUtilities\obj\Debug\OpenXmlUtilities.pdb
+E:\Scuola\Quarta Superiore\Informatica\Laboratorio\OpenXML\OpenXmlPlaygroundSolution\OpenXmlUtilities\bin\Debug\OpenXmlUtilities.dll
+E:\Scuola\Quarta Superiore\Informatica\Laboratorio\OpenXML\OpenXmlPlaygroundSolution\OpenXmlUtilities\bin\Debug\OpenXmlUtilities.pdb
+E:\Scuola\Quarta Superiore\Informatica\Laboratorio\OpenXML\OpenXmlPlaygroundSolution\OpenXmlUtilities\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Scuola\Quarta Superiore\Informatica\Laboratorio\OpenXML\OpenXmlPlaygroundSolution\OpenXmlUtilities\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Scuola\Quarta Superiore\Informatica\Laboratorio\OpenXML\OpenXmlPlaygroundSolution\OpenXmlUtilities\obj\Debug\OpenXmlUtilities.csprojAssemblyReference.cache
+E:\Scuola\Quarta Superiore\Informatica\Laboratorio\OpenXML\OpenXmlPlaygroundSolution\OpenXmlUtilities\obj\Debug\OpenXmlUtilities.csproj.CopyComplete
+E:\Scuola\Quarta Superiore\Informatica\Laboratorio\OpenXML\OpenXmlPlaygroundSolution\OpenXmlUtilities\obj\Debug\OpenXmlUtilities.dll
+E:\Scuola\Quarta Superiore\Informatica\Laboratorio\OpenXML\OpenXmlPlaygroundSolution\OpenXmlUtilities\obj\Debug\OpenXmlUtilities.pdb

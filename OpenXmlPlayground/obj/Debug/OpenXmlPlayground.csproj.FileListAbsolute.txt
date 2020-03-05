@@ -1,0 +1,42 @@
+C:\Users\oscar.cambieri\Desktop\OpenXmlPlaygroundSolution\OpenXmlPlayground\bin\Debug\OpenXmlPlayground.exe.config
+C:\Users\oscar.cambieri\Desktop\OpenXmlPlaygroundSolution\OpenXmlPlayground\bin\Debug\OpenXmlPlayground.exe
+C:\Users\oscar.cambieri\Desktop\OpenXmlPlaygroundSolution\OpenXmlPlayground\bin\Debug\OpenXmlPlayground.pdb
+C:\Users\oscar.cambieri\Desktop\OpenXmlPlaygroundSolution\OpenXmlPlayground\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\oscar.cambieri\Desktop\OpenXmlPlaygroundSolution\OpenXmlPlayground\bin\Debug\OpenXmlUtilities.dll
+C:\Users\oscar.cambieri\Desktop\OpenXmlPlaygroundSolution\OpenXmlPlayground\bin\Debug\OpenXmlUtilities.pdb
+C:\Users\oscar.cambieri\Desktop\OpenXmlPlaygroundSolution\OpenXmlPlayground\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\oscar.cambieri\Desktop\OpenXmlPlaygroundSolution\OpenXmlPlayground\obj\Debug\OpenXmlPlayground.csprojAssemblyReference.cache
+C:\Users\oscar.cambieri\Desktop\OpenXmlPlaygroundSolution\OpenXmlPlayground\obj\Debug\OpenXmlPlayground.FormMain.resources
+C:\Users\oscar.cambieri\Desktop\OpenXmlPlaygroundSolution\OpenXmlPlayground\obj\Debug\OpenXmlPlayground.Properties.Resources.resources
+C:\Users\oscar.cambieri\Desktop\OpenXmlPlaygroundSolution\OpenXmlPlayground\obj\Debug\OpenXmlPlayground.csproj.GenerateResource.cache
+C:\Users\oscar.cambieri\Desktop\OpenXmlPlaygroundSolution\OpenXmlPlayground\obj\Debug\OpenXmlPlayground.csproj.CopyComplete
+C:\Users\oscar.cambieri\Desktop\OpenXmlPlaygroundSolution\OpenXmlPlayground\obj\Debug\OpenXmlPlayground.exe
+C:\Users\oscar.cambieri\Desktop\OpenXmlPlaygroundSolution\OpenXmlPlayground\obj\Debug\OpenXmlPlayground.pdb
+C:\Users\oscar.cambieri\Desktop\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\bin\Debug\OpenXmlPlayground.exe.config
+C:\Users\oscar.cambieri\Desktop\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\bin\Debug\OpenXmlPlayground.exe
+C:\Users\oscar.cambieri\Desktop\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\bin\Debug\OpenXmlPlayground.pdb
+C:\Users\oscar.cambieri\Desktop\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\oscar.cambieri\Desktop\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\bin\Debug\OpenXmlUtilities.dll
+C:\Users\oscar.cambieri\Desktop\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\bin\Debug\OpenXmlUtilities.pdb
+C:\Users\oscar.cambieri\Desktop\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\oscar.cambieri\Desktop\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\obj\Debug\OpenXmlPlayground.csprojAssemblyReference.cache
+C:\Users\oscar.cambieri\Desktop\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\obj\Debug\OpenXmlPlayground.FormMain.resources
+C:\Users\oscar.cambieri\Desktop\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\obj\Debug\OpenXmlPlayground.Properties.Resources.resources
+C:\Users\oscar.cambieri\Desktop\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\obj\Debug\OpenXmlPlayground.csproj.GenerateResource.cache
+C:\Users\oscar.cambieri\Desktop\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\obj\Debug\OpenXmlPlayground.csproj.CopyComplete
+C:\Users\oscar.cambieri\Desktop\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\obj\Debug\OpenXmlPlayground.exe
+C:\Users\oscar.cambieri\Desktop\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\obj\Debug\OpenXmlPlayground.pdb
+E:\Scuola\Quarta Superiore\Informatica\Laboratorio\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\bin\Debug\OpenXmlPlayground.exe.config
+E:\Scuola\Quarta Superiore\Informatica\Laboratorio\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\bin\Debug\OpenXmlPlayground.exe
+E:\Scuola\Quarta Superiore\Informatica\Laboratorio\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\bin\Debug\OpenXmlPlayground.pdb
+E:\Scuola\Quarta Superiore\Informatica\Laboratorio\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Scuola\Quarta Superiore\Informatica\Laboratorio\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\bin\Debug\OpenXmlUtilities.dll
+E:\Scuola\Quarta Superiore\Informatica\Laboratorio\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\bin\Debug\OpenXmlUtilities.pdb
+E:\Scuola\Quarta Superiore\Informatica\Laboratorio\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Scuola\Quarta Superiore\Informatica\Laboratorio\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\obj\Debug\OpenXmlPlayground.csprojAssemblyReference.cache
+E:\Scuola\Quarta Superiore\Informatica\Laboratorio\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\obj\Debug\OpenXmlPlayground.FormMain.resources
+E:\Scuola\Quarta Superiore\Informatica\Laboratorio\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\obj\Debug\OpenXmlPlayground.Properties.Resources.resources
+E:\Scuola\Quarta Superiore\Informatica\Laboratorio\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\obj\Debug\OpenXmlPlayground.csproj.GenerateResource.cache
+E:\Scuola\Quarta Superiore\Informatica\Laboratorio\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\obj\Debug\OpenXmlPlayground.csproj.CopyComplete
+E:\Scuola\Quarta Superiore\Informatica\Laboratorio\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\obj\Debug\OpenXmlPlayground.exe
+E:\Scuola\Quarta Superiore\Informatica\Laboratorio\OpenXML\OpenXmlPlaygroundSolution\OpenXmlPlayground\obj\Debug\OpenXmlPlayground.pdb
