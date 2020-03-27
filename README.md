@@ -5,5 +5,5 @@ Created by *Marcellino Demis*
 >effetti impostati da codice
 
 Abbiamo usato una DLL(Dynamic Link Library) per
->Realizzare il progetto con più comodità
->La semplificazione della lettura dei codici
+- Realizzare il progetto con più comodità
+- La semplificazione della lettura dei codici
